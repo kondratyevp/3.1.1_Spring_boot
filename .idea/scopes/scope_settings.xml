@@ -1,0 +1,13 @@
+<component name="DependencyValidationManager">
+  <state>
+    <unnamed_scope value="ext[Maven: mysql:mysql-connector-java:8.0.26]:com/mysql/cj/jdbc//*" />
+    <unnamed_scope value="ext[Maven: org.springframework.security:spring-security-crypto:5.5.2]:*/" />
+    <unnamed_scope value="file[3.1.1_Spring_boot]:*/" />
+    <unnamed_scope value="file[3.1.1_Spring_boot]:src/main/java//*" />
+    <deny_rule from_scope="file[3.1.1_Spring_boot]:*/" to_scope="ext[Maven: mysql:mysql-connector-java:8.0.26]:com/mysql/cj/jdbc//*" is_deny="true" />
+    <deny_rule from_scope="file[3.1.1_Spring_boot]:*/" to_scope="ext[Maven: mysql:mysql-connector-java:8.0.26]:com/mysql/cj/jdbc//*" is_deny="true" />
+    <deny_rule from_scope="file[3.1.1_Spring_boot]:src/main/java//*" to_scope="ext[Maven: org.springframework.security:spring-security-crypto:5.5.2]:*/" is_deny="true" />
+    <deny_rule from_scope="file[3.1.1_Spring_boot]:src/main/java//*" to_scope="ext[Maven: org.springframework.security:spring-security-crypto:5.5.2]:*/" is_deny="true" />
+    <deny_rule from_scope="file[3.1.1_Spring_boot]:src/main/java//*" to_scope="ext[Maven: org.springframework.security:spring-security-crypto:5.5.2]:*/" is_deny="true" />
+  </state>
+</component>
